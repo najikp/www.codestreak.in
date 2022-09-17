@@ -1,3 +1,9 @@
+var d1 = new Date("06/05/2022"); 
+      var d2 = new Date(); 
+      var diff = d2.getTime() - d1.getTime(); 
+      
+      var daydiff = ((diff / 31536000000)*365).toFixed(0);
+
 _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
   [20],
   {
@@ -56,20 +62,25 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                               ],
                             }),
                           }),
+
+                          
+
                           Object(i.jsx)("div", {
                             "data-swiper-parallax": "300",
                             className: "slide-sub-title",
                             children: Object(i.jsx)("h5", {
-                              children: "23 Days of codeing",
-                              <span id="days">   </span>🔥 Days of coding !</h5>
+                              children: `${daydiff} Days of coding !🔥`,
                             }),
                           }),
+                          
+
+
                           Object(i.jsx)("div", {
                             "data-swiper-parallax": "400",
                             className: "slide-text",
                             children: Object(i.jsx)("p", {
                               children:
-                                "Must explain to how all this mistaken idea denouncing pleasure pain the system and expound the actua.",
+                                "We accept all kind of web application as per your requirements.",
                             }),
                           }),
                           Object(i.jsx)("div", { className: "clearfix" }),
@@ -81,7 +92,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                               spy: !0,
                               smooth: !0,
                               duration: 500,
-                              children: "Hire Me",
+                              children: "Contact Us",
                             }),
                           }),
                         ],
