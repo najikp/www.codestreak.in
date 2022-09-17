@@ -2230,7 +2230,7 @@ ul.smothscroll a:hover {
   display: none;
 }
 .wpo-header-style-1 .wpo-site-header .sticky-header.sticky-on {
-  background: #131313;
+  background: #000000;
 }
 .fixed-navbar {
   position: relative;
@@ -2243,7 +2243,7 @@ ul.smothscroll a:hover {
   top: 0;
   left: 0;
   width: 100%;
-  background: #131313;
+  background: #000000;
   border: none;
 }
 .mobileMenu {
@@ -2378,7 +2378,7 @@ ul.smothscroll a:hover {
   display: flex;
   position: relative;
   z-index: 0;
-  background: #131313;
+  background: #000000;
 }
 @media (max-width: 991px) {
   .static-hero,
@@ -2752,7 +2752,7 @@ ul.smothscroll a:hover {
   visibility: visible;
 }
 .static-hero {
-  background: #131313;
+  background: #000000;
   height: 940px;
   display: flex;
   position: relative;
@@ -5587,7 +5587,7 @@ ul.smothscroll a:hover {
   opacity: 1;
 }
 .wpo-contact-area {
-  background: #131313;
+  background: #000000;
   padding-bottom: 40px !important;
   position: relative;
   overflow: hidden;
@@ -5939,7 +5939,7 @@ ul.smothscroll a:hover {
   margin-top: 0;
 }
 .partners-section {
-  background: #131313;
+  background: #000000;
   padding: 85px 0;
 }
 .partners-section .partners-slider .grid img {
@@ -6393,7 +6393,7 @@ ul.smothscroll a:hover {
   .wpo-project-single-wrap
   .wpo-project-single-item-quote {
   padding: 45px;
-  background: #131313;
+  background: #000000;
   text-align: center;
   border-radius: 15px;
 }

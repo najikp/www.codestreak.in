@@ -42,7 +42,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                     Object(i.jsx)("div", {
                       className: "slider-image",
                       children: Object(i.jsx)("img", {
-                        src: "images/slider/slide-3.jpg",
+                        src: "https://i.seadn.io/gae/zSpJcqbleltkabnxkjTs9hsXCqoqGcwN_YEkvBjEM6OADi4rYBiOWUXihZLdSG1WUeZOZychcfAaSARoH2JfAiOw?w=1000",
                         alt: "",
                         className: "slider-bg",
                       }),
