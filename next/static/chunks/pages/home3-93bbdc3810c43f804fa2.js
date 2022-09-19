@@ -1,4 +1,4 @@
-var d1 = new Date("06/05/2022"); 
+var d1 = new Date("06/01/2022"); 
       var d2 = new Date(); 
       var diff = d2.getTime() - d1.getTime(); 
       
