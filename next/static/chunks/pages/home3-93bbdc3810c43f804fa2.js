@@ -133,7 +133,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                 children: [
                   Object(i.jsx)(h.a, {}),
                   Object(i.jsx)(x, {}),
-                  Object(i.jsx)(a.a, { about: "images/about2.jpg" }),
+                  Object(i.jsx)(a.a, { about: "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720__340.jpg" }),
                   Object(i.jsx)(p.a, { sClass: "wpo-service-area-s2" }),
                   Object(i.jsx)(r.a, {}),
                   Object(i.jsx)(O.a, {}),
@@ -173,21 +173,21 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                         Object(i.jsx)("div", {
                           className: "icon-1 floating-item",
                           children: Object(i.jsx)("img", {
-                            src: "images/icon/photoshop.svg",
+                            src: "https://ih1.redbubble.net/image.733717744.9990/gbrf,6x6,f,540x540-pad,450x450,f8f8f8.jpg",
                             alt: "",
                           }),
                         }),
                         Object(i.jsx)("div", {
                           className: "icon-2 floating-item",
                           children: Object(i.jsx)("img", {
-                            src: "images/icon/illustrator.svg",
+                            src: "https://www.nicepng.com/png/detail/70-701932_python-logo-clipart-python-head-python-logo.png",
                             alt: "",
                           }),
                         }),
                         Object(i.jsx)("div", {
                           className: "icon-3 floating-item",
                           children: Object(i.jsx)("img", {
-                            src: "images/icon/diamond.svg",
+                            src: "https://www.nicepng.com/png/detail/31-315310_react-hexagon-react-js-transparent-background.png",
                             alt: "",
                           }),
                         }),
@@ -206,8 +206,8 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                                 Object(i.jsxs)("h3", {
                                   children: [
                                     Object(i.jsx)("span", {
-                                      "data-count": "1500",
-                                      children: "1500",
+                                      "data-count": "25",
+                                      children: "25",
                                     }),
                                     "+",
                                   ],
@@ -230,7 +230,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                         Object(i.jsxs)("div", {
                           className: "wpo-about-title",
                           children: [
-                            Object(i.jsx)("h2", { children: "My Advantage" }),
+                            Object(i.jsx)("h2", { children: "Our Advantages" }),
                             Object(i.jsx)("p", {
                               children:
                                 "Must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account the system and expound the actual and praising pain was born.",

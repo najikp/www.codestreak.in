@@ -424,7 +424,7 @@
                           spy: !0,
                           smooth: !0,
                           duration: 500,
-                          children: "Blog",
+                          children: "Members",
                         }),
                       }),
                     ],
@@ -483,10 +483,10 @@
                             to: "/",
                             children: [
                               Object(r.jsx)("img", {
-                                src: "images/logo.png",
+                                src: "blob:https://web.whatsapp.com/fc93681a-e1e1-4733-94a8-3d370a4599fa",
                                 alt: "",
                               }),
-                              "Elito.",
+                              "CodeStreak.in",
                             ],
                           }),
                         }),
@@ -588,7 +588,7 @@
                                     spy: !0,
                                     smooth: !0,
                                     duration: 500,
-                                    children: "Blog",
+                                    children: "Members",
                                   }),
                                 }),
                               ],
@@ -4527,7 +4527,7 @@
                                   className: "info-item",
                                   children: [
                                     Object(r.jsx)("h2", {
-                                      children: "info@elito.com",
+                                      children: "info@CodeStreak.incom",
                                     }),
                                     Object(r.jsxs)("div", {
                                       className: "info-wrap",
@@ -18175,10 +18175,10 @@
                                 to: "/",
                                 children: [
                                   Object(r.jsx)("img", {
-                                    src: "images/logo.png",
+                                    src: "blob:https://web.whatsapp.com/fc93681a-e1e1-4733-94a8-3d370a4599fa",
                                     alt: "",
                                   }),
-                                  "Elito.",
+                                  "CodeStreak.in",
                                 ],
                               }),
                             }),
@@ -18449,7 +18449,7 @@
                     Object(r.jsx)("p", {
                       className: "copyright",
                       children:
-                        "Copyright \xa9 2022 Elito. All rights reserved.",
+                        "Copyright \xa9 2022 CodeStreak.in All rights reserved.",
                     }),
                   ],
                 }),
